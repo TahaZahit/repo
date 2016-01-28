@@ -1,3 +1,1 @@
-# repo
-
-Yazdığım kodları paylaşacağım yer
+#Hoş Geldiniz
