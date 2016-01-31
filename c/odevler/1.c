@@ -9,6 +9,6 @@ main()
 	while(tahmin!=r){
 		printf("tahmin ettiginiz SAYI: ");
 		scanf("%d",&tahmin);
-		(tahmin<r)?printf("Elini korkak alistirma\n"):((tahmin>r)?printf("Ufak at\n"):printf("helal olsun dogru bildin"));			
+		(tahmin<r)?printf("Elini korkak alistirma\n"):((tahmin>r)?printf("Ufak at\n"):printf("helal olsun dogru bildin"));	
 	}
 }
